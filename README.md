@@ -1,16 +1,43 @@
-# React + Vite
+# Luxe Shop – E-Commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
+Luxe Shop is a responsive e-commerce web application developed to provide a user-friendly online shopping experience.
 
-Currently, two official plugins are available:
+## Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Responsive user interface
+- Component-based frontend development
+- Interactive web pages
+- User-friendly shopping interface
 
-## React Compiler
+## Installation and Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/noorsaba02/Luxe-Shop--E-Commerce-Web-Application-.git
+   ```
 
-## Expanding the ESLint configuration
+2. Navigate to the project folder:
+   ```bash
+   cd Luxe-Shop--E-Commerce-Web-Application-
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm run dev
+   ```
+
+## Developer
+Noor Saba
+
+GitHub: https://github.com/noorsaba02
